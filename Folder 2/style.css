@@ -2,6 +2,9 @@ body{
   background-color: #cbc1d2;
 }
 
+h1{
+  color: white;
+}
 
 .heart{
   align-items: center;
